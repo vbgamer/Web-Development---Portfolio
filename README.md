@@ -24,3 +24,5 @@ The content you can include in this section is:
 Step Five: Add Work Experience section
 step six :Add Contact section..The contact section is the section that lets your visitor get in touch with you.
 atep seven Add Footer section
+****NOTE****
+YOU CAN CHANGE YOUR PICTURE BY JUST OPENING YOUR PICTURE IN FOLDER AND COPY PASTE THE LINK. 
